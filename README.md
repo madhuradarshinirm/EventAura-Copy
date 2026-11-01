@@ -50,9 +50,10 @@ npm run build
 ```
 ## Proof of Work
 1. Main Dashboard
-   ![image alt](https://github.com/madhuradarshinirm/EventAura-Copy/blob/10cb3426873ded26f125e8ff775799dc4cf35baa/Screenshot%202026-11-01%20224200.png)
+   
 2. Admin Dashboard
 4. Event Ticket
+5. ![image alt](https://github.com/madhuradarshinirm/EventAura-Copy/blob/10cb3426873ded26f125e8ff775799dc4cf35baa/Screenshot%202026-11-01%20224200.png)
 ## Demo admin access
 
 1. Sign out of any existing customer session.
